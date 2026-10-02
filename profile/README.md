@@ -1,10 +1,11 @@
 
 # Trainnr AI
 
-**The end-to-end robotics platform: a self-improving loop for robots,
-run from your coding agent.** Real-to-sim from the robot's own telemetry,
-datasets, training, evaluation, sim-to-real gating, deployment telemetry
-and drift, every record queryable by the agent. [trainnr.ai](https://trainnr.ai)
+**The end-to-end robotics platform, run from your coding agent: real-to-sim,
+train, sim-to-real, and back.** Identify the robot from its telemetry,
+generate datasets, train policies by reinforcement or imitation learning,
+evaluate with exact intervals, gate and deploy, watch the telemetry for
+drift. [trainnr.ai](https://trainnr.ai)
 
 - [`trainnr`](https://github.com/Trainnr-AI/trainnr): the pipeline (Python
   packages `trainnr` and `trainnr-mjlab`), the desktop app, the `trainnr`
