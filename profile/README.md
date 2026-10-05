@@ -8,9 +8,7 @@ gate the export before deployment, and watch new telemetry for drift.
 - [`trainnr`](https://github.com/Trainnr-AI/trainnr): the platform: the
   Python packages `trainnr` and `trainnr-mjlab`, the Studio (the desktop
   app), the `trainnr` command and MCP server, the Claude Code plugin, the
-  docs and the findings records. Licensed under the Functional Source
-  License (FSL-1.1-ALv2): any use but a competing product, and Apache-2.0
-  two years after each release.
+  docs and the findings records.
 
 Install the plugin in Claude Code:
 
